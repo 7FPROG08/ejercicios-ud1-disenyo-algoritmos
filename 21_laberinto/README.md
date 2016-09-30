@@ -21,3 +21,5 @@ Notas y sugerencias:
 - El algoritmo de [seguir la pared con la mano](https://en.wikipedia.org/wiki/Maze_solving_algorithm#Wall_follower) puede ser útil para este problema.
 - Para poner a prueba el algoritmo, puedes generar más laberintos con [esta herramienta](http://www.mazegenerator.net/).
 - El robot no se detiene hasta que encuentre la salida o se le acabe la batería.
+
+Pulsando en [este enlace](https://blockly-games.appspot.com/maze?lang=es&level=10&skin=0#rkxx8g) puedes ver una solución creada por Asier usando [Blockly](https://developers.google.com/blockly/).
