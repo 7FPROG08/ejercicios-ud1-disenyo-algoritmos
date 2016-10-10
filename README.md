@@ -22,4 +22,4 @@ Ejercicios de diseño de algoritmos correspondientes a la UD1.
 - [Ejercicio 18 - ¿Es primo?](./18_es_primo/).
 - [Ejercicio 19 - Lista de números primos](./19_lista_primos/).
 - [Ejercicio 20 - Verificar DNI](./20_verificar_dni/).
-- [Ejercicio 21 - Laberinto](./21_laberinto/).
+- [Ejercicio extra - Laberinto](./21_laberinto/).
